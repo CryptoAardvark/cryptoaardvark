@@ -36,6 +36,7 @@ Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile ap
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
 [![Embark](https://img.shields.io/badge/-Embark-blue?style=for-the-badge&logo=skyliner&logoColor=white)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
