@@ -1,25 +1,11 @@
 <h1 align= "center"><b>Welcome 👋 </b></h1>
  
-[![discord](https://img.shields.io/badge/-andrejrakic-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/1314449627797262386/1314449627797262389)](https://discord.com/channels/1314449627797262386/1314449627797262389)
+[![discord](https://img.shields.io/badge/-Ronny-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/1314449627797262386/1314449627797262389)](https://discord.com/channels/1314449627797262386/1314449627797262389)
 
 
-Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️ GitHub. :octocat: 
+Hi, I'm Ronnie and I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
 
 <br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejrakic&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,c,nix" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrejrakic&show_icons=true&count_private=true" />
-</a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
-<img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
-<img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
-<img align="left" height="150" src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
-<img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
-<br /><br /><br /><br /><br /><br />
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
