@@ -1,12 +1,7 @@
 <h1 align= "center"><b>Welcome 👋 </b></h1>
  
-[![Linkedin Badge](https://img.shields.io/badge/-andrejrakic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejrakic/)](https://www.linkedin.com/in/andrejrakic/)
-[![Medium Badge](https://img.shields.io/badge/-@andrej.rakic-black?style=flat&labelColor=black&logo=medium&logoColor=white&link=https://www.medium.com/@andrej.rakic)](https://www.medium.com/@andrej.rakic)
-[![Instagram Badge](https://img.shields.io/badge/-@andrej__rakic-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/andrej_rakic/)](https://www.instagram.com/andrej_rakic/)
+[![discord](https://img.shields.io/badge/-andrejrakic-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/1314449627797262386/1314449627797262389)](https://discord.com/channels/1314449627797262386/1314449627797262389)
 
-[![Gist Badge](https://img.shields.io/badge/-Gists-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://gist.github.com/andrejrakic)](https://gist.github.com/andrejrakic)
-[![GitBook Badge](https://img.shields.io/badge/-Gitbooks-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://andrej-rakic.gitbook.io/)](https://andrej-rakic.gitbook.io/)
-[![SlideShare Badge](https://img.shields.io/badge/-SlideShare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.slideshare.net/AndrejRakic/)](https://www.slideshare.net/AndrejRakic/)
 
 Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️ GitHub. :octocat: 
 
