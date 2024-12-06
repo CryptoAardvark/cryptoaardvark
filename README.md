@@ -3,7 +3,7 @@
 [![discord](https://img.shields.io/badge/-Ronny-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/1314449627797262386/1314449627797262389)](https://discord.com/channels/1314449627797262386/1314449627797262389)
 
 
-Hi, I'm Ronnie and I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
+Hi, I'm Ronny and I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
 
 <br />
 
