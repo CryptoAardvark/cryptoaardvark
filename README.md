@@ -1,9 +1,6 @@
 <h1 align= "center"><b>Welcome 👋 </b></h1>
- 
-[![discord](https://img.shields.io/badge/-Ronny-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/1314449627797262386/1314449627797262389)](https://discord.com/channels/1314449627797262386/1314449627797262389)
 
-
-Hi, I'm Ronny and I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
+I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
 
 <br />
 
@@ -14,6 +11,7 @@ Hi, I'm Ronny and I'm a blockchain developer. I enjoy developing alternative coi
 [![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white)]()
 [![C](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c%2b%2b&logoColor=white)]()
 [![C++](https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2b%2b&logoColor=white)]()
+[![Nest.js](https://img.shields.io/badge/-Nest-black?style=for-the-badge&logo=nest&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
@@ -27,8 +25,7 @@ Hi, I'm Ronny and I'm a blockchain developer. I enjoy developing alternative coi
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=-visual-studio-code&logoColor=white)]()
 
 ## Blockchain
-
-I am a blockchain developer with 5 years of experience. My main interest in blockchain development is writing and testing chain code, smart contracts for EVM blockchain based alternative coins or Ethereum using both C++ and Solidity. I would like to say that Remix IDE is really great. I am also working on a few Hyperledger projects. Stay tuned!
+My main interest in blockchain development is writing and testing chain code, smart contracts for EVM blockchain based alternative coins or Ethereum using both C++ and Solidity. I would like to say that Remix IDE is really great. I am also working on a few Hyperledger projects. Stay tuned!
 
 
 
