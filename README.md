@@ -1,10 +1,5 @@
-<h1 align= "center"><b>Welcome 👋 </b></h1>
-
-I'm a blockchain developer. I enjoy developing alternative coins using C++. I'm also passionate about Dapps and the blockchain ecosystem. And I really ❤️ GitHub. :octocat:
-
-<br />
-
 ## Tech stack
+[![AI](https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Ethereum](https://img.shields.io/badge/-ETHEREUM-grey?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Solana](https://img.shields.io/badge/-Solana-violet?style=for-the-badge&logo=solana&logoColor=white)]()
