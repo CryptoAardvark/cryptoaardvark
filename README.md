@@ -1,6 +1,6 @@
 ## Tech stack
-[![AI](https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=AI&logoColor=white)]()
-[![Go](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=c%2b%2b&logoColor=white)]()
+[![AI](https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=AI&logoColor=black)]()
+[![Go](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go&logoColor=blue)]()
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Ethereum](https://img.shields.io/badge/-ETHEREUM-grey?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Solana](https://img.shields.io/badge/-Solana-violet?style=for-the-badge&logo=solana&logoColor=white)]()
