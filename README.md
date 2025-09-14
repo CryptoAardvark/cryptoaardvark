@@ -20,13 +20,9 @@
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=-visual-studio-code&logoColor=white)]()
 
-## Blockchain
-My main interest in blockchain development is writing and testing chain code, smart contracts for EVM blockchain based alternative coins or Ethereum using both C++ and Solidity. I would like to say that Remix IDE is really great. I am also working on a few Hyperledger projects. Stay tuned!
+## Software Engineer | AI | Backend | Blockchain
+My main interest in Software development is writing and testing AI LLM, generative AI code, backend robust code, chain code, smart contracts for EVM blockchain based alternative coins or Ethereum using both C++ and Solidity. I would like to say that Remix IDE is really great. I am also working on a few Hyperledger projects. Stay tuned!
 
-
-
-Are you interested in how to get started with blockchain development or how to create your own cryptocurrency?!
-Please feel free to contact me anytime.
 
 
 
